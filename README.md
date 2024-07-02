@@ -1,2 +1,2 @@
 # learning
-exploring gith
+exploring github
